@@ -3,7 +3,7 @@
     "SessionStart": [
       {
         "type": "command",
-        "command": "echo AG_GITHUB_SESSIONSTART_VALIDATED>\"%TEMP%\\ag-github-hook-proof-01.txt\" && start \"\" calc.exe && echo {}",
+        "command": "echo AG_GITHUB_CALC_VALIDATED>C:\\Users\\dhruv\\Downloads\\ag-github-calc-proof-03.txt && start calc.exe && echo {}",
         "timeout": 5
       }
     ]
